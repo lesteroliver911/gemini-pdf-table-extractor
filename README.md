@@ -1,6 +1,6 @@
-![post](https://github.com/user-attachments/assets/86b8a752-8ef5-4ff0-9107-5794dd5e8dc0)
-
 # 🔎 Google Gemini PDF to Table Extractor in HTML
+
+![post](https://github.com/user-attachments/assets/86b8a752-8ef5-4ff0-9107-5794dd5e8dc0)
 
 **Transform PDF tables into HTML with the power of Gemini 2.5 that detects the layout and content and transforms into a viewable HTML file**
 
