@@ -4,6 +4,8 @@
 
 This experimental tool leverages Google's Gemini 2.5 Flash Preview model to parse complex tables from PDF documents and convert them into clean HTML that preserves the exact layout, structure, and data.
 
+[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4)
+
 ## ✨ Why This Matters
 
 PDF tables are notoriously difficult to extract accurately. Standard conversion tools often produce:
