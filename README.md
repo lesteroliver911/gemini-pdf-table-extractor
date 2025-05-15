@@ -1,6 +1,6 @@
 # 🔎 Google Gemini PDF to Table Extractor in HTML
 
-**Transform PDF tables into perfect HTML with the power of Gemini 2.5**
+**Transform PDF tables into HTML with the power of Gemini 2.5 that detects the layout and content and transforms into a viewable HTML file**
 
 This experimental tool leverages Google's Gemini 2.5 Flash Preview model to parse complex tables from PDF documents and convert them into clean HTML that preserves the exact layout, structure, and data.
 
